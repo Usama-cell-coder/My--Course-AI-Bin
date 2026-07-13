@@ -1,0 +1,16 @@
+Company,Year,Launches,Successful,Failed,Revenue_USD_M,Budget_Funding_USD_M,Employees,Rockets,Success_Rate_%
+Rocket Lab,2010,0,0,0,0,1,5,0,0.0
+Rocket Lab,2011,0,0,0,0,2,8,0,0.0
+Rocket Lab,2012,0,0,0,0,5,15,0,0.0
+Rocket Lab,2013,0,0,0,0,8,25,1,0.0
+Rocket Lab,2014,0,0,0,0,12,40,1,0.0
+Rocket Lab,2015,0,0,0,0,15,60,1,0.0
+Rocket Lab,2016,0,0,0,0,20,100,1,0.0
+Rocket Lab,2017,1,0,1,1,75,150,1,0.0
+Rocket Lab,2018,3,2,1,15,140,300,1,66.67
+Rocket Lab,2019,6,6,0,48,140,500,1,100.0
+Rocket Lab,2020,7,7,0,55,140,700,1,100.0
+Rocket Lab,2021,6,6,0,62,777,900,1,100.0
+Rocket Lab,2022,9,9,0,211,1400,1400,1,100.0
+Rocket Lab,2023,10,10,0,245,1500,1900,1,100.0
+Rocket Lab,2024,16,16,0,436,1800,2100,2,100.0
